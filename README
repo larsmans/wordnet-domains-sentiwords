@@ -1,0 +1,59 @@
+		WORDNET-DOMAINS - version 3.2
+
+		         February 2007
+
+
+Description of the files included in the the distribution:
+
+
+- "WDH-to-DDC-map.pdf" contains the complete list of the domains organized hierarchically, with mappings to the DDC
+
+
+- "WDH-revision-summary.pdf" is a summary of the updates introduced in the domain hierarchy of WordNet-Domains 2.0 with respect to WordNet-Domains 1.1.1
+
+
+- "WORDNET-DOMAINS-2.0-TR.pdf" is an in-depth description of the revision of the domain hierarchy
+
+
+- "Coling-04-ws-WDH.pdf" is a paper presented at COLING 2004 which describes the revision of the domain hierarchy
+
+
+- "WDH-old-new-comparison.pdf" is a schematic comparison between the old hierarchy and the revised hierarchy
+
+
+- "wn-domains-2.0-20050210" [OLD version] contains the mapping between Princeton WordNet 1.6  synsets and their corresponding domains.  
+  Each line of the file reports: 
+  (i) synset offset - part of  speech
+  (ii)the list of domains associated to the synset.
+
+  Example:
+  00081298-n      baseball play
+
+
+- "wn-domains-3.2-20070223" contains the mapping between Princeton WordNet 2.0 synsets and their corresponding domains. The format is as above.
+
+
+-"wn-affect-1.0/wn-affect-legenda-1.0.txt" contains all information about the affective domain labels and the kind of mapping between Princeton WordNet 1.6 synsets and their correponding affective domains. 
+
+
+-"wn-affect-1.0/wn-affect-labels-1.0.txt" contains the mapping between some Princeton WordNet 1.6  synsets and their corresponding affective domains. 
+Each line of the file reports:
+(i) part of speech # synset offset
+(ii) label that indicates if the synset belongs to the manually annotated
+     core or if it was automatically annotated applying the specified
+     wordnet relation
+(iii) one or more affective labels, separated by "|".
+
+Examples:
+
+n#05611157|core|emo|moo    
+a#00479718|similar-to|emo
+
+
+-"wn-affect-1.1/readme-wn-affect-1.1.txt" contains a description of WordNet 1.1
+
+
+-"wn-affect-1.1/a-hierarchy.xml" includes the affective hierarchy.
+
+
+-"wn-affect-1.1/a-synsets.xml" includes synsets associated with the affective hierarchy. Synsets are classified according to their pos. 

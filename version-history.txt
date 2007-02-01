@@ -1,0 +1,93 @@
+=============================================
+version 1.0: released in May 2001
+=============================================
+ 
+type: main release
+
+based on the first version of the WordNet-Domains Hierarchy
+
+based on Princeton WordNet 1.6
+
+=============================================
+version 1.1: released in 2003
+=============================================
+ 
+type: minor release
+
+=============================================
+version 1.1.1: released in May 2003
+=============================================
+ 
+type: minor release
+
+=============================================
+version 1.2: released in May 2004
+=============================================
+ 
+type: minor release
+
+=============================================
+version 2.0: released in January 2005
+=============================================
+ 
+type: main release
+
+includes
+	wn-affect-1.0
+	wn-domains-2.0-
+
+- based on Princeton WordNet 1.6
+- based on the *second version* of the the WordNet-Domains Hierarchy
+- added documentation on the comparison between the first and second version of the WordNet-Domains Hierarchy
+
+=============================================
+version 3.0: released in February 2005
+=============================================
+
+type: main release
+
+includes
+	wn-affect-1.0
+	wn-domains-2.0
+	wn-domains-3.0beta
+
+- based on Princeton WordNet 2.0
+- based on the *second version* of the WordNet-Domains Hierarchy 
+- added version history
+
+=============================================
+version 3.1: released in September 2005
+=============================================
+
+type: minor release
+
+includes
+	wn-affect-1.0
+	wn-domains-2.0
+	wn-domains-3.1beta
+
+In version 3.0 some labels did not correspond to those included the second version of the WordNet-Domains Hierarchy. They have been renamed.
+
+radio  ==> radio+tv
+tv     ==> radio+tv
+social ==> social_science
+
+=============================================
+version 3.2: released in February 2007
+=============================================
+
+type: minor release
+
+includes
+	wn-affect-1.0
+	wn-affect-1.1
+	wn-domains-2.0
+	wn-domains-3.2
+
+wn-affect-1.1 includes a smaller number of synsets with respect to wn-affect-1.0, but the semantic organization is more well-structured.
+
+No changes between wn-domains-3.1beta and wn-domains-3.2
+
+
+
+
