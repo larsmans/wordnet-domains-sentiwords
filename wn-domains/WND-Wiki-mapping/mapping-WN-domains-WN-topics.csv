@@ -1,0 +1,441 @@
+method, synset, synset_gloss, domain_label, id,
+found exact match, racing.n.01; evacuate.v.02 ,"  empty completely; ""evacuate the bottle"" ", Racing , 00449295
+found exact match, electricity.n.01 ,  a physical phenomenon associated with stationary or moving electrons and protons , Electricity , 11449907
+found exact match, architecture.n.03 ,  the profession of designing buildings and environments with consideration for their esthetic effect , Architecture , 00610738
+found exact match, animal_husbandry.n.01 ,  breeding and caring for farm animals , Animal Husbandry , 00917211
+found exact match, golf.n.01; golf_game.n.01 ,  a game played on a large open course with 9 or 18 holes; the object is use as few strokes as possible in playing all the holes , Golf , 00464894
+found exact match, photography.n.02 ,  the process of producing images of objects on photosensitive surfaces , Photography , 13536794
+found exact match, telephone.n.02; telephony.n.01 ,  transmitting speech at a distance , Telephony , 06272290
+found exact match, chemical_science.n.01; chemistry.n.01 ,  the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions , Chemistry , 06084469
+found exact match, philosophy.n.02 ,  the rational investigation of questions about existence and knowledge and ethics , Philosophy , 06158346
+found exact match, bowling.n.01 ,  a game in which balls are rolled at an object or group of objects with the aim of knocking them over or moving them , Bowling , 00461782
+found exact match, industry.n.02; manufacture.n.01 ,"  the organized action of making of goods and services for sale; ""American industry is making increased use of computers to control production"" ", Industry , 00923444
+found exact match, chess.n.02; chess_game.n.01 ,  a board game for two players who move their 16 pieces according to specific rules; the object is to checkmate the opponent's king , Chess , 00503237
+found exact match, anthropology.n.01 ,  the social science that studies the origins and social relationships of human beings , Anthropology , 06143546
+found exact match, mountain_climbing.n.01; mountaineering.n.01 ,  the activity of climbing a mountain , Mountaineering , 00325785
+found exact match, didactics.n.01; education.n.01; educational_activity.n.01; instruction.n.02; pedagogy.n.03; teaching.n.03 ,"  the activities of educating or instructing; activities that impart knowledge or skill; ""he received no formal education""; ""our instruction was carefully programmed""; ""good classroom teaching is seldom rewarded"" ", Pedagogy , 00883297
+found exact match, medicine.n.03; practice_of_medicine.n.01 ,"  the learned profession that is mastered by graduate training in a medical school and that is devoted to preventing or alleviating or curing diseases and injuries; ""he studied medicine at Harvard"" ", Medicine , 00612160
+found exact match, administration.n.05; governance.n.02; governing.n.01; government.n.02; government_activity.n.01 ,"  the act of governing; exercising authority; ""regulations for the governing of state prisons""; ""he had considerable experience of government"" ", Administration , 01124794
+found exact match, photography.n.01; picture_taking.n.01 ,  the act of taking and printing photographs , Photography , 00903559
+found exact match, commerce.n.01; commercialism.n.01; mercantilism.n.02 ,  transactions (sales and purchases) having the objective of supplying commodities (goods and services) , Commerce , 01090446
+found exact match, archaeology.n.01; archeology.n.01 ,  the branch of anthropology that studies prehistoric people and their cultures , Archaeology , 06144081
+found exact match, dance.n.03; dancing.n.01; saltation.n.04; terpsichore.n.02 ,  taking a series of rhythmical steps (and movements) in time to music , Dance , 00428270
+found exact match, euphony.n.01; music.n.02 ,"  any agreeable (pleasing and harmonious) sounds; ""he fell asleep to the music of the wind chimes"" ", Music , 05718556
+found exact match, bowling.n.03 ,  the playing of a game of tenpins or duckpins etc , Bowling , 00041740
+found exact match, mechanics.n.01 ,  the branch of physics concerned with the motion of bodies in a frame of reference , Mechanics , 06100236
+found exact match, telecom.n.01; telecommunication.n.01 ,  (often plural) systems used in transmitting messages over a distance electronically , Telecommunication , 06271778
+found exact match, dance.n.01 ,  an artistic form of nonverbal communication , Dance , 07020538
+found exact match, geometry.n.01 ,  the pure mathematics of points and lines and curves and surfaces , Geometry , 06004685
+found exact match, jurisprudence.n.02; law.n.01 ,"  the collection of rules imposed by authority; ""civilization presupposes respect for the law""; ""the great problem for jurisprudence to allow freedom while enforcing order"" ", Law , 08441203
+found exact match, lawn_tennis.n.01; tennis.n.01 ,  a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court , Tennis , 00482298
+found exact match, dental_medicine.n.01; dentistry.n.01; odontology.n.01 ,  the branch of medicine dealing with the anatomy and development and diseases of the teeth , Dentistry , 06047430
+found exact match, music.n.04 ,  (music) the sounds produced by singers or musical instruments (or reproductions of such sounds) , Music , 05718935
+found exact match, grammar.n.01 ,  the branch of linguistics that deals with syntax and morphology (and sometimes also deals with semantics) , Grammar , 06174404
+found exact match, biochemistry.n.01 ,  the organic chemistry of compounds and processes occurring in organisms; the effort to understand biology within the context of chemistry , Biochemistry , 06079620
+found exact match, music.n.01 ,  an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner , Music , 07020895
+found exact match, baseball.n.01; baseball_game.n.01 ,"  a ball game played with a bat and ball between two teams of nine players; teams take turns at bat trying to score runs; ""he played baseball in high school""; ""there was a baseball game on every empty lot""; ""there was a desire for National League ball in the area""; ""play ball!"" ", Baseball , 00471613
+found exact match, folklore.n.01 ,  the unwritten lore (stories and proverbs and riddles and songs) of a culture , Folklore , 05985602
+found exact match, agriculture.n.02; farming.n.01; husbandry.n.01 ,  the practice of cultivating the land or raising stock , Agriculture , 00916464
+found exact match, history.n.03 ,"  the discipline that records and interprets past events involving human beings; ""he teaches Medieval history""; ""history takes the long view"" ", History , 06155567
+found exact match, geology.n.01 ,  a science that deals with the history of the earth as recorded in rocks , Geology , 06115701
+found exact match, celluloid.n.02; cinema.n.01; film.n.02 ,"  a medium that disseminates moving pictures; ""theater pieces transferred to celluloid""; ""this story would be good cinema""; ""film coverage of sporting events"" ", Cinema , 06262567
+found exact match, math.n.01; mathematics.n.01; maths.n.01 ,  a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement , Mathematics , 06000644
+found exact match, operation.n.06; surgery.n.04; surgical_operation.n.01; surgical_procedure.n.01; surgical_process.n.01 ,"  a medical procedure involving an incision with instruments; performed to repair damage or arrest disease in a living body; ""they will schedule the operation as soon as an operating room is available""; ""he died while undergoing surgery"" ", Surgery , 00671351
+found exact match, skiing.n.01 ,  a sport in which participants must travel on skis , Skiing , 00440747
+found exact match, architecture.n.02 ,"  the discipline dealing with the principles of design and construction and ornamentation of fine buildings; ""architecture and eloquence are mixed arts whose end is sometimes beauty and sometimes use"" ", Architecture , 06123363
+found exact match, music.n.03 ,"  musical activity (singing or whistling etc.); ""his music was his central interest"" ", Music , 00543233
+found exact match, theological_system.n.01; theology.n.02 ,"  a particular system or school of religious beliefs and teachings; ""Jewish theology""; ""Roman Catholic theology"" ", Theology , 06183899
+found exact match, air.n.09; air_travel.n.01; aviation.n.04 ,"  travel via aircraft; ""air travel involves too much waiting in airports""; ""if you've time to spare go by air"" ", Aviation , 00300441
+found exact match, photography.n.03 ,  the occupation of taking and printing photographs or making movies , Photography , 00620554
+found exact match, armed_forces.n.01; armed_services.n.01; military.n.01; military_machine.n.01; war_machine.n.01 ,"  the military forces of a nation; ""their military is the largest in the region""; ""the military machine is the same one we faced in 1991 but now it is weaker"" ", Military , 08199025
+found exact match, badminton.n.01 ,  a game played on a court with light long-handled rackets used to volley a shuttlecock over a net , Badminton , 00480508
+found exact match, bugology.n.01; entomology.n.01 ,  the branch of zoology that studies insects , Entomology , 06072275
+found exact match, mythology.n.01 ,  myths collectively; the body of stories associated with a culture or institution or person , Mythology , 07978423
+found exact match, sociology.n.01 ,  the study and classification of human societies , Sociology , 06151693
+found exact match, electronics.n.01 ,  the branch of physics that deals with the emission and effects of electrons and with the use of electronic devices , Electronics , 06099269
+found exact match, divinity.n.04; theology.n.01 ,  the rational and systematic study of religion and its influences and of the nature of religious truth , Theology , 06182144
+found exact match, publication.n.04; publishing.n.01 ,  the business of issuing printed matter for sale or distribution , Publishing , 01101958
+found exact match, genetic_science.n.01; genetics.n.01 ,  the branch of biology that studies heredity and variation in organisms , Genetics , 06075527
+found exact match, astrology.n.01; star_divination.n.01 ,  a pseudoscience claiming divination by the positions of the planets and sun and moon , Astrology , 05778131
+found exact match, political_relation.n.01; politics.n.01 ,"  social relations involving intrigue to gain authority or power; ""office politics is often counterproductive"" ", Politics , 13840719
+found exact match, medicament.n.01; medication.n.01; medicinal_drug.n.01; medicine.n.02 ,  (medicine) something that treats or prevents or alleviates the symptoms of disease , Medicine , 03740161
+found exact match, oceanography.n.01; oceanology.n.01 ,  the branch of science dealing with physical and biological aspects of the oceans , Oceanography , 06119904
+found exact match, fencing.n.03 ,  the art or sport of fighting with swords (especially the use of foils or epees or sabres to score points under a set of rules) , Fencing , 01171644
+found exact match, boxing.n.01; fisticuffs.n.02; pugilism.n.01 ,  fighting with the fists , Boxing , 00445802
+found exact match, heraldry.n.01 ,  the study and classification of armorial bearings and the tracing of genealogies , Heraldry , 05801594
+found exact match, surgery.n.01 ,"  the branch of medical science that treats disease or injury by operative procedures; ""he is professor of surgery at the Harvard Medical School"" ", Surgery , 06063588
+found exact match, anatomy.n.01; general_anatomy.n.01 ,  the branch of morphology that deals with the structure of animals , Anatomy , 06057539
+found exact match, basketball.n.01; basketball_game.n.01; hoops.n.01 ,  a game played on a court by two opposing teams of 5 players; points are scored by throwing the ball through an elevated horizontal hoop , Basketball , 00480993
+found exact match, church_of_rome.n.01; roman_catholic.n.02; roman_catholic_church.n.01; roman_church.n.01; western_church.n.01 ,  the Christian Church based in the Vatican and presided over by a pope and an episcopal hierarchy , Roman Catholic , 08083599
+found exact match, rugby.n.01; rugby_football.n.01; rugger.n.01 ,  a form of football played with an oval ball , Rugby , 00470966
+found exact match, shipping.n.01; transport.n.03; transportation.n.05 ,  the commercial enterprise of moving goods and materials , Transport , 01105259
+found exact match, fishing.n.01; sportfishing.n.01 ,  the act of someone who fishes as a diversion , Fishing , 00453935
+found exact match, fossilology.n.01; palaeontology.n.01; paleontology.n.01 ,  the earth science that studies fossil organisms and related remains , Paleontology , 06073888
+found exact match, football.n.01; football_game.n.01 ,  any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal , Football , 00468480
+found exact match, cricket.n.02 ,  a game played with a ball and bat by two teams of 11 players; teams take turns trying to score runs , Cricket , 00476389
+found exact match, faith.n.01; religion.n.01; religious_belief.n.01 ,"  a strong belief in a supernatural power or powers that control human destiny; ""he lost his faith but not his morality"" ", Religion , 05946687
+found exact match, linguistics.n.01 ,  the scientific study of language , Linguistics , 06172789
+found exact match, literature.n.01 ,  creative writing of recognized artistic value , Literature , 06364641
+found exact match, aeronautics.n.01; astronautics.n.01 ,  the theory and practice of navigation through air or space , Astronautics , 06096913
+found exact match, diplomacy.n.01; diplomatic_negotiations.n.01 ,  negotiation between nations , Diplomacy , 07148573
+found exact match, hockey.n.02; hockey_game.n.01; ice_hockey.n.01 ,  a game played on an ice rink by two opposing teams of six skaters each who try to knock a flat round puck into the opponents' goal with angled sticks , Hockey , 00463543
+found exact match, university.n.02 ,  establishment where a seat of higher learning is housed; including administrative and living quarters as well as facilities for research and teaching , University , 04511002
+found exact match, telecommunication.n.02 ,  (often plural) the branch of electrical engineering concerned with the technology of electronic communication at a distance , Telecommunication , 06128307
+found exact match, medical_specialty.n.01; medicine.n.01 ,  the branches of medical science that deal with nonsurgical techniques , Medicine , 06043075
+found exact match, government.n.04; political_science.n.01; politics.n.02 ,  the study of government of states and other political units , Politics , 06148148
+found exact match, statistics.n.01 ,  a branch of applied mathematics concerned with the collection and interpretation of quantitative data and the use of probability theory to estimate population parameters , Statistics , 06018465
+found exact match, ping-pong.n.01; table_tennis.n.01 ,  a game (trademark Ping-Pong) resembling tennis but played on a table with paddles and a light hollow ball , Table Tennis , 00499263
+found exact match, biological_science.n.01; biology.n.01 ,  the science that studies living organisms , Biology , 06037666
+found exact match, radiology.n.01 ,  the branch of medical science dealing with the medical use of X-rays or other penetrating radiation , Radiology , 06062407
+found exact match, natural_philosophy.n.01; physics.n.01 ,"  the science of matter and energy and their interactions; ""his favorite subject was physics"" ", Physics , 06090869
+found exact match, dramatic_art.n.01; dramatics.n.02; dramaturgy.n.01; theater.n.02; theatre.n.02 ,  the art of writing and producing plays , Theatre , 07006119
+found exact match, psychiatry.n.01; psychological_medicine.n.01; psychopathology.n.02 ,  the branch of medicine dealing with the diagnosis and treatment of mental disorders , Psychiatry , 06055946
+found exact match, applied_science.n.01; engineering.n.02; engineering_science.n.01; technology.n.02 ,"  the discipline dealing with the art or science of applying scientific knowledge to practical problems; ""he had trouble deciding which branch of engineering to study"" ", Engineering; Applied Science , 06125041
+found exact match, field_hockey.n.01; hockey.n.01 ,  a game resembling ice hockey that is played on an open field; two opposing teams use curved sticks try to drive a ball into the opponents' net , Hockey , 00467995
+found exact match, law.n.06; practice_of_law.n.01 ,"  the learned profession that is mastered by graduate study in a law school and that is responsible for the judicial system; ""he studied law at Yale"" ", Law , 00611143
+found exact match, computer_science.n.01; computing.n.01 ,  the branch of engineering science that studies (with the aid of computers) computable processes and structures , Computer Science , 06128570
+found exact match, astronomy.n.01; uranology.n.01 ,  the branch of physics that studies celestial bodies and the universe as a whole , Astronomy , 06095022
+found exact match, art.n.02; artistic_creation.n.01; artistic_production.n.01 ,"  the creation of beautiful or significant things; ""art does not need to be innovative to be good""; ""I was never any good at art""; ""he said that architecture is the art of wasting space beautifully"" ", Art , 00933420
+found exact match, heraldry.n.02 ,  emblem indicating the right of a person to bear arms , Heraldry , 03515338
+found exact match, optics.n.01 ,  the branch of physics that studies the physical properties of light , Optics , 06100778
+found exact match, analysis.n.06; depth_psychology.n.01; psychoanalysis.n.01 ,"  a set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of Sigmund Freud; ""his physician recommended psychoanalysis"" ", Psychoanalysis , 00704305
+found exact match, meteorology.n.02 ,  the earth science dealing with phenomena of the atmosphere (especially weather) , Meteorology , 06118563
+found exact match, fashion.n.03 ,  the latest and most admired style in clothes and cosmetics and behavior , Fashion , 05750657
+found exact match, finance.n.02 ,  the branch of economics that studies the management of money and other assets , Finance , 06150633
+found exact match, athletics.n.01; sport.n.01 ,  an active diversion requiring physical exertion and competition , Athletics; Sport , 00523513
+found exact match, faith.n.03; organized_religion.n.01; religion.n.02 ,"  an institution to express belief in a divine power; ""he was raised in the Baptist religion""; ""a member of his own faith contradicted him"" ", Religion , 08081668
+found exact match, revenue_enhancement.n.01; tax.n.01; taxation.n.01 ,  charge against a citizen's person or property or activity for the support of government , Tax , 13308999
+found exact match, association_football.n.01; soccer.n.01 ,  a football game in which two teams of 11 players try to kick or head a ball into the opponents' goal , Soccer , 00478262
+found exact match, hunt.n.08; hunting.n.01 ,  the pursuit and killing or capture of wild animals regarded as a sport , Hunting , 00452293
+found exact match, acoustics.n.01 ,  the study of the physical properties of sound , Acoustics , 06094774
+found exact match, banking.n.01 ,  engaging in the business of keeping money for savings and checking accounts or for exchange or for issuing loans and credit etc. , Banking , 01100658
+found exact match, grappling.n.02; rassling.n.01; wrestling.n.02 ,  the sport of hand-to-hand struggle between unarmed contestants who try to throw each other down , Wrestling , 00447540
+found exact match, banking.n.02 ,  transacting business with a bank; depositing or withdrawing funds or requesting a loan etc. , Banking , 01100273
+found exact match, physiology.n.02 ,  processes and functions of an organism , Physiology , 05005064
+found exact match, psychological_science.n.01; psychology.n.01 ,  the science of mental life , Psychology , 06136258
+found exact match, physiology.n.01 ,  the branch of the biological sciences dealing with the functioning of organisms , Physiology , 06080522
+found exact match, article_of_furniture.n.01; furniture.n.01; piece_of_furniture.n.01 ,"  furnishings that make a room or other area ready for occupancy; ""they had too much furniture for the small apartment""; ""there was only one piece of furniture in the room"" ", Furniture , 03405725
+found exact match, telegraphy.n.01 ,  communicating at a distance by electric transmission over wire , Telegraphy , 06274921
+found by pattern, zoological_science.n.01; zoology.n.02 ,  the branch of biology that studies animals , Biology , 06083243
+found by pattern, cytology.n.01 ,  the branch of biology that studies the structure and function of cells , Biology , 06070503
+found by pattern, ophthalmology.n.01 ,  the branch of medicine concerned with the eye and its diseases , Medicine , 06054446
+found by pattern, histology.n.01 ,  the branch of biology that studies the microscopic structure of animal or plant tissues , Biology , 06077413
+found by pattern, atomic_physics.n.01; nuclear_physics.n.01; nucleonics.n.01 ,  the branch of physics that studies the internal structure of atomic nuclei , Physics , 06100555
+found by pattern, mineralogy.n.01 ,  the branch of geology that studies minerals: their structure and properties and the ways of distinguishing them , Geology , 06121113
+found by pattern, microbiology.n.01 ,  the branch of biology that studies microorganisms and their effects on humans , Biology , 06077648
+found by pattern, phonetics.n.01 ,  the branch of acoustics concerned with speech processes including its production and perception and acoustic analysis , Acoustics , 06177033
+found by pattern, bionomics.n.01; ecology.n.02; environmental_science.n.01 ,  the branch of biology concerned with the relations between organisms and their environment , Biology , 06070929
+found by pattern, veterinary_medicine.n.01 ,  the branch of medicine that deals with the diagnosis and treatment of diseases and injuries of animals (especially domestic animals) , Medicine , 06065423
+found by pattern, midwifery.n.01; ob.n.02; obstetrics.n.01; tocology.n.01 ,  the branch of medicine dealing with childbirth and care of the mother , Medicine , 06053439
+found by pattern, admiralty_law.n.01; marine_law.n.01; maritime_law.n.01 ,  the branch of international law that deals with territorial and international waters or with shipping or with ocean fishery etc. , Law , 08454191
+found by pattern, plate_tectonic_theory.n.01; plate_tectonics.n.01; tectonics.n.02 ,  the branch of geology studying the folding and faulting of the earth's crust , Geology , 06118370
+found by pattern, otology.n.01 ,  the branch of medicine concerned with the ear , Medicine , 06054700
+found by pattern, high-energy_physics.n.01; high_energy_physics.n.01; particle_physics.n.01 ,  the branch of physics that studies subatomic particles and their interactions , Physics , 06101551
+found by pattern, thermodynamics.n.01 ,  the branch of physics concerned with the conversion of different forms of energy , Physics , 06114578
+found by pattern, ee.n.01; electrical_engineering.n.01 ,  the branch of engineering science that studies the uses of electricity and the equipment for power generation and distribution and the control of machines and communication , Engineering , 06128024
+found by pattern, physical_chemistry.n.01 ,  the branch of chemistry dealing with the physical properties of chemical substances , Chemistry , 06089447
+found by pattern, logic.n.01 ,  the branch of philosophy that analyzes inference , Philosophy , 06163751
+found by pattern, endocrinology.n.01 ,  the branch of medicine dealing with the endocrine glands and their secretions , Medicine , 06049850
+found by pattern, arithmetic.n.01 ,  the branch of pure mathematics dealing with the theory of numerical calculations , Mathematics , 06004067
+found by pattern, economic_science.n.01; economics.n.01; political_economy.n.01 ,  the branch of social science that deals with the production and distribution and consumption of goods and services and their management , Social science , 06149484
+found by pattern, botany.n.02; phytology.n.01 ,  the branch of biology that studies plants , Biology , 06066555
+found by pattern, embryology.n.01 ,  the branch of biology that studies the formation and early development of living organisms , Biology , 06071426
+found by pattern, molecular_biology.n.01 ,  the branch of biology that studies the structure and activity of macromolecules essential to life (and especially with their genetic role) , Biology , 06078088
+found by pattern, cryogenics.n.01; cryogeny.n.01 ,  the branch of physics that studies the phenomena that occur at very low temperatures , Physics , 06098687
+found by pattern, psychophysics.n.01 ,  the branch of psychology concerned with quantitative relations between physical stimuli and their psychological effects , Psychology , 06139491
+found key word match, sikhism.n.01 ,  the doctrines of a monotheistic religion founded in northern India in the 16th century by Guru Nanak and combining elements of Hinduism and Islam , Religion , 06239931
+found key word match, securities_market.n.01; stock_exchange.n.01; stock_market.n.01 ,  an exchange where security trading is conducted by professional stockbrokers , Exchange , 04323026
+found key word match, angling.n.01 ,  fishing with a hook and line (and usually a pole) , Fishing , 00454237
+found key word match, factory.n.01; manufactory.n.01; manufacturing_plant.n.01; mill.n.01 ,  a plant consisting of one or more buildings with facilities for manufacturing , Buildings , 03316406
+found key word match, cell.n.02 ,  (biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals , Plants; Animals , 00006484
+found key word match, contract.n.01 ,  a binding agreement between two or more persons that is enforceable by law , Law , 06520944
+found key word match, military_law.n.01 ,  the body of laws and rules of conduct administered by military courts for the discipline; trial; and punishment of military personnel , Military , 08455271
+found key word match, craps.n.02 ,  a gambling game played with two dice; a first throw of 7 or 11 wins and a first throw of 2; 3; or 12 loses and a first throw of any other number must be repeated to win before a 7 is thrown; which loses the bet and the dice , Number , 00508952
+found key word match, game_bird.n.01 ,  any bird (as grouse or pheasant) that is hunted for sport , Sport , 02153203
+found key word match, old_testament.n.01 ,  the collection of books comprising the sacred scripture of the Hebrews and recording their history as the chosen people; the first half of the Christian Bible , History , 06449735
+found key word match, jazz.n.02 ,  a genre of popular music that originated in New Orleans around 1900 and developed through increasingly complex styles , Music , 07062697
+found key word match, criminal_law.n.01 ,  the body of law dealing with crimes and their punishment , Law , 06539178
+found key word match, industrial_plant.n.01; plant.n.01; works.n.01 ,"  buildings for carrying on industrial labor; ""they built a large plant to manufacture automobiles"" ", Buildings , 03956922
+found key word match, genre.n.03; music_genre.n.01; musical_genre.n.01; musical_style.n.01 ,  an expressive style of music , Music , 07071942
+found key word match, falconry.n.01 ,  the art of training falcons to hunt and return , Art , 05635448
+found key word match, gardening.n.01; horticulture.n.01 ,  the cultivation of plants , Plants , 00918383
+found key word match, meat.n.01 ,  the flesh of animals (including fishes and birds and snails) used as food , Food; Animals , 07649854
+found key word match, norse_mythology.n.01 ,  the mythology of Scandinavia (shared in part by Britain and Germany) until the establishment of Christianity , Mythology , 07983856
+found key word match, singing.n.01; vocalizing.n.01 ,  the act of singing vocal music , Music , 00545501
+found key word match, cabinetry.n.01; cabinetwork.n.02 ,  the craft of making furniture (especially furniture of high quality) , Furniture , 00607542
+found key word match, library_science.n.01 ,  the study of the principles and practices of library administration , Administration , 06170892
+found key word match, roman_mythology.n.01 ,  the mythology of the ancient Romans , Mythology , 07983170
+found key word match, poker.n.02; poker_game.n.01 ,  any of various card games in which players bet that they hold the highest-ranking hand , Card , 00494768
+found key word match, jainism.n.02 ,  religion founded in the 6th century BC as a revolt against Hinduism; emphasizes asceticism and immortality and transmigration of the soul; denies existence of a perfect or supreme being , Religion , 06239655
+found key word match, drug.n.01 ,  a substance that is used as a medicine or narcotic , Medicine , 03247620
+found key word match, rock.n.06; rock'n'roll.n.01; rock-and-roll.n.01; rock_'n'_roll.n.01; rock_and_roll.n.01; rock_music.n.01 ,"  a genre of popular music originating in the 1950s; a blend of black rhythm-and-blues with white country-and-western; ""rock is a generic term for the range of styles that evolved out of rock'n'roll."" ", Music , 07064715
+found key word match, case_law.n.02; common_law.n.01; precedent.n.02 ,  (civil law) a law established by following earlier judicial decisions , Law , 06535035
+found key word match, cockfighting.n.01 ,  participation in the sport of matching gamecocks in a cockfight , Sport , 00452152
+found key word match, greek_mythology.n.01 ,  the mythology of the ancient Greeks , Mythology , 07979425
+found key word match, poesy.n.01; poetry.n.01; verse.n.01 ,  literature in metrical form , Literature , 07092592
+found key word match, game.n.01 ,"  a contest with rules to determine a winner; ""you need four people to play this game"" ", Play , 00455599
+found key word match, trade.n.01 ,"  the commercial exchange (buying and selling on domestic or international markets) of goods and services; ""Venice was an important center of trade with the East""; ""they are accused of conspiring to constrain trade"" ", Exchange , 01091905
+found key word match, judaism.n.02 ,  the monotheistic religion of the Jews having its spiritual and ethical principles embodied chiefly in the Torah and in the Talmud , Religion , 06232880
+found key word match, mazdaism.n.01; zoroastrianism.n.01 ,  system of religion founded in Persia in the 6th century BC by Zoroaster; set forth in the Zend-Avesta; based on concept of struggle between light (good) and dark (evil) , Religion , 06244149
+found key word match, scholasticism.n.01 ,  the system of philosophy dominant in medieval Europe; based on Aristotle and the Church Fathers , Philosophy , 05976065
+found key word match, softball.n.02; softball_game.n.01 ,  a game closely resembling baseball that is played on a smaller diamond and with a ball that is larger and softer , Baseball , 00475787
+found key word match, islamic_law.n.01; sharia.n.01; sharia_law.n.01; shariah.n.01; shariah_law.n.01 ,"  the code of law derived from the Koran and from the teachings and example of Mohammed; ""sharia is only applicable to Muslims""; ""under Islamic law there is no separation of church and state"" ", Law , 08455829
+found key word match, equitation.n.01; horseback_riding.n.01; riding.n.01 ,  the sport of siting on the back of a horse while controlling its movements , Sport , 00450335
+found key word match, classical_mythology.n.01 ,  the system of mythology of the Greeks and Romans together; much of Roman mythology (especially the gods) was borrowed from the Greeks , Mythology , 07978924
+found key word match, excavation.n.04; mining.n.01 ,  the act of extracting ores or coal etc from the earth , Earth , 00922327
+found key word match, ballet.n.01; concert_dance.n.01 ,  a theatrical representation of a story that is performed to music by trained dancers , Music , 00528667
+found key word match, ceramics.n.01 ,  the art of making and decorating pottery , Art , 00935247
+found key word match, business.n.01; business_concern.n.01; business_organisation.n.01; business_organization.n.01; concern.n.05 ,"  a commercial or industrial enterprise and the people who constitute it; ""he bought his brother's business""; ""a small mom-and-pop business""; ""a racially integrated business concern"" ", Enterprise , 08061042
+found key word match, jet_engine.n.01 ,  a gas turbine produces a stream of hot gas that propels a jet plane by reaction propulsion , Gas , 03596285
+found key word match, horse_racing.n.01 ,  the sport of racing horses , Sport; Racing , 00450070
+found key word match, dark_ages.n.01; middle_ages.n.01 ,  the period of history between classical antiquity and the Italian Renaissance , History , 15259284
+found key word match, metrics.n.01; prosody.n.03 ,  the study of poetic meter and the art of versification , Art , 06170025
+found key word match, bacteria.n.01; bacterium.n.01 ,  (microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission; important as pathogens and for biochemical properties; taxonomy is difficult; often considered to be plants , Plants , 01348530
+found key word match, health_food.n.01 ,  any natural or prepared food popularly believed to promote good health , Food; Health , 07702362
+found key word match, algebra.n.01 ,  the mathematics of generalized arithmetical operations , Mathematics , 06012726
+found key word match, investing.n.01; investment.n.01 ,  the act of investing; laying out money or capital in an enterprise with the expectation of profit , Money; Enterprise , 01099436
+found key word match, farm_animal.n.01; livestock.n.01; stock.n.17 ,  any animals kept for use or profit , Animals , 01887474
+found key word match, civil_law.n.02; jus_civile.n.01; justinian_code.n.01; roman_law.n.01 ,  the legal code of ancient Rome; codified under Justinian; the basis for many modern systems of civil law , Law , 06534659
+found key word match, jamaica.n.01 ,  a country on the island of Jamaica; became independent of England in 1962; much poverty; the major industry is tourism , Industry; Tourism , 08753933
+found key word match, classical_architecture.n.01; greco-roman_architecture.n.01 ,  architecture influenced by the ancient Greeks or Romans , Architecture , 05841985
+found key word match, beaux_arts.n.01; fine_arts.n.01 ,  the study and creation of visual works of art , Art , 06156968
+found key word match, gymnastic_exercise.n.02; gymnastics.n.01 ,  a sport that involves exercises intended to display strength and balance and agility , Sport , 00433802
+found key word match, tasting.n.01 ,  a small amount (especially of food or wine) , Food , 05822612
+found key word match, stud.n.05; stud_poker.n.01 ,  poker in which each player receives hole cards and the remainder are dealt face up; bets are placed after each card is dealt , Card , 00498220
+found key word match, neurophysiology.n.01 ,  the branch of neuroscience that studies the physiology of the nervous system , Physiology , 06081602
+found key word match, naval_forces.n.01; navy.n.01 ,  an organization of military vessels belonging to a country and available for sea warfare , Military , 08191701
+found key word match, legislation.n.01; statute_law.n.01 ,  law enacted by a legislative body , Law , 06535222
+found key word match, auto_racing.n.01; car_racing.n.01 ,  the sport of racing automobiles , Sport; Racing , 00449517
+found key word match, fungi.n.01; fungus_kingdom.n.01; kingdom_fungi.n.01 ,  the taxonomic kingdom including yeast; molds; smuts; mushrooms; and toadstools; distinct from the green plants , Plants , 12992464
+found key word match, bridge.n.05 ,  any of various card games based on whist for four players , Card , 00490569
+found key word match, craniate.n.01; vertebrate.n.01 ,  animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium , Animals , 01471682
+found key word match, tenpin_bowling.n.01; tenpins.n.01 ,  bowling down an alley at a target of ten wooden pins , Bowling , 00462241
+found key word match, investment.n.02; investment_funds.n.01 ,  money that is invested with an expectation of profit , Money , 13333237
+found key word match, railroad_train.n.01; train.n.01 ,"  public transport provided by a line of railway cars coupled together and drawn by a locomotive; ""express trains don't stop at Princeton Junction"" ", Railway; Transport , 04468005
+found key word match, polo.n.02 ,  a game similar to field hockey but played on horseback using long-handled mallets and a wooden ball , Hockey , 00477639
+found key word match, professional_basketball.n.01 ,  playing basketball for money , Money; Basketball , 00481803
+found key word match, alchemy.n.02 ,  a pseudoscientific forerunner of chemistry in medieval times , Chemistry , 05778749
+found key word match, concert.n.01 ,  a performance of music by players or singers not involving theatrical staging , Music , 06892775
+found string match, business.n.02; business_enterprise.n.01; commercial_enterprise.n.02 ,"  the activity of providing goods and services involving financial and commercial and industrial aspects; ""computers are now widely used in business"" ", Enterprise , 01094725
+found string match, christian_religion.n.01; christianity.n.01 ,  a monotheistic system of beliefs and practices based on the Old Testament and the teachings of Jesus as embodied in the New Testament and emphasizing the role of Jesus as savior , Religion , 06226057
+found string match, canon_law.n.01; ecclesiastical_law.n.01 ,  the body of codified laws governing the affairs of a Christian church , Law , 08453299
+found string match, number_representation_system.n.01; number_system.n.01; numeration_system.n.01; system_of_numeration.n.01 ,  any notation for the representation of numbers , Number , 06809074
+found string match, matrimonial_law.n.01 ,  that branch of jurisprudence that studies the laws governing matrimony , Law , 06162377
+found string match, card_game.n.01; cards.n.01 ,  a game played with playing cards , Card , 00488225
+found string match, civil_law.n.01 ,  the body of laws established by a state or nation for its own regulation , Law , 08453464
+found string match, christian_theology.n.01 ,  the teachings of Christian churches , Theology , 06184270
+found string match, materia_medica.n.01; pharmacological_medicine.n.01; pharmacology.n.01 ,  the science or study of drugs: their preparation and properties and uses and effects , Medicine , 06054892
+found string match, diachronic_linguistics.n.01; diachrony.n.01; historical_linguistics.n.01 ,"  the study of linguistic change; ""the synchrony and diachrony of language"" ", Linguistics , 06169050
+found string match, american_football.n.01; american_football_game.n.01 ,  a game played by two teams of 11 players on a rectangular field 100 yards long; teams try to get possession of the ball and advance it across the opponents goal line in a series of (running or passing) plays , Football , 00469651
+found string match, contract_law.n.01 ,  that branch of jurisprudence that studies the rights and obligations of parties entering into contracts , Law , 06162042
+found string match, order.n.09; parliamentary_law.n.01; parliamentary_procedure.n.01; rules_of_order.n.01 ,  a body of rules followed by an assembly , Law , 06652878
+found string match, descriptive_linguistics.n.01 ,  a description (at a given point in time) of a language with respect to its phonology and morphology and syntax and semantics without value judgments , Linguistics , 06181584
+found string match, aquatics.n.01; water_sport.n.01 ,  sports that involve bodies of water , Sport , 00441824
+found string match, existential_philosophy.n.01; existentialism.n.01; existentialist_philosophy.n.01 ,  (philosophy) a 20th-century philosophical movement chiefly in Europe; assumes that people are entirely free and thus responsible for what they make of themselves , Philosophy , 05970755
+found string match, ethics.n.02; moral_philosophy.n.01 ,  the philosophical study of moral values and rules , Philosophy , 06159473
+found string match, corporation_law.n.01 ,  that branch of jurisprudence that studies the laws governing corporations , Law , 06162223
+found string match, corporate_finance.n.01 ,  the financial activities of corporation , Finance , 01098968
+found lemmatized string match, animal.n.01; animate_being.n.01; beast.n.01; brute.n.02; creature.n.01; fauna.n.02 ,  a living organism characterized by voluntary movement , Animals , 00015388
+found lemmatized string match, ship_building.n.01; shipbuilding.n.01 ,  the construction of ships , Buildings , 00912822
+found lemmatized string match, building.n.02; construction.n.01 ,"  the act of constructing something; ""during the construction we had to take a detour""; ""his hobby was the building of boats"" ", Buildings , 00911048
+found lemmatized string match, autobus.n.01; bus.n.01; charabanc.n.01; coach.n.05; double-decker.n.01; jitney.n.01; motorbus.n.01; motorcoach.n.01; omnibus.n.02; passenger_vehicle.n.01 ,"  a vehicle carrying many passengers; used for public transport; ""he always rode the bus to work"" ", Vehicles , 02924116
+found lemmatized string match, automotive_vehicle.n.01; motor_vehicle.n.01 ,  a self-propelled wheeled vehicle that does not run on rails , Vehicles , 03791235
+LSA-mapping-only-label-and-synset, forestry.n.01 ,  the science of planting and caring for forests and the management of growing timber ,Agriculture, 06071934
+none, ichthyology.n.01 ,  the branch of zoology that studies fishes ,, 06072912
+LSA-mapping-label+sup+sub-and-synset+gloss, cosa_nostra.n.01; maffia.n.01; mafia.n.01 ,  a crime syndicate in the United States; organized in families; believed to have important relations to the Sicilian Mafia ,Social science, 08245802
+LSA-mapping-only-label-and-synset+gloss, civil_wrong.n.01; tort.n.01 ,  (law) any wrongdoing for which an action for damages may be brought ,Law, 00733883
+LSA-mapping-label+sup+sub-and-synset+gloss, wine_making.n.01; winemaking.n.01 ,  the craft and science of growing grapes and making wine ,Food, 01126564
+LSA-mapping-only-label-and-synset+gloss, muscle.n.02; muscular_tissue.n.01 ,  animal tissue consisting predominantly of contractile cells ,Optics, 05289057
+LSA-mapping-only-label-and-synset, apocrypha.n.01 ,  14 books of the Old Testament included in the Vulgate (except for II Esdras) but omitted in Jewish and Protestant versions of the Bible; eastern Christian churches (except the Coptic Church) accept all these books as canonical; the Russian Orthodox Church accepts these texts as divinely inspired but does not grant them the same status ,Mythology, 06457952
+LSA-mapping-only-label-and-synset, bacteriology.n.01 ,  the branch of medical science that studies bacteria in relation to disease ,Veterinary, 06046692
+LSA-mapping-label+sup+sub-and-synset, pathology.n.01 ,  the branch of medical science that studies the causes and nature and effects of diseases ,Surgery, 06060845
+LSA-mapping-label+sup+sub-and-synset, animate_thing.n.01; living_thing.n.01 ,  a living (or once living) entity ,Betting, 00004258
+LSA-mapping-only-label-and-synset, lake.n.01 ,  a body of (usually fresh) water surrounded by land ,Swimming, 09328904
+LSA-mapping-only-label-and-synset+gloss, sight.n.03; vision.n.02; visual_modality.n.01; visual_sense.n.01 ,  the ability to see; the visual faculty ,Psychological features, 05654362
+LSA-mapping-only-label-and-synset, chemical_analysis.n.01; qualitative_analysis.n.01 ,  the act of decomposing a substance into its constituent elements ,Psychological features, 00646833
+LSA-mapping-label+sup+sub-and-synset+gloss, game_theory.n.01; theory_of_games.n.01 ,  (economics) a theory of competition stated in terms of gains and losses among opposing players ,Social science, 06150222
+LSA-mapping-only-label-and-synset+gloss, auto.n.01; automobile.n.01; car.n.01; machine.n.06; motorcar.n.01 ,"  a motor vehicle with four wheels; usually propelled by an internal combustion engine; ""he needs a car to get to work"" ",Vehicles, 02958343
+LSA-mapping-only-label-and-synset, justice.n.02 ,  judgment involved in the determination of rights and the assignment of rewards and punishments ,Administration, 00694681
+LSA-mapping-only-label-and-synset+gloss, archaicism.n.01; archaism.n.01 ,  the use of an archaic expression ,Mythology, 07073447
+LSA-mapping-only-label-and-synset, logic.n.05; logical_system.n.01; system_of_logic.n.01 ,  a system of reasoning ,Psychological features, 05664069
+LSA-mapping-label+sup+sub-and-synset+gloss, gospel_according_to_luke.n.01; gospel_of_luke.n.01; luke.n.02 ,  one of the four Gospels in the New Testament; contains details of Jesus's birth and early life ,Religion, 06441973
+LSA-mapping-label+sup+sub-and-synset, medium.n.03 ,  an intervening substance through which signals can travel as a means for communication ,Radio tv, 06254475
+LSA-mapping-label+sup+sub-and-synset, ocean.n.01 ,  a large body of water constituting a principal part of the hydrosphere ,Oceanography, 09376198
+LSA-mapping-label+sup+sub-and-synset+gloss, cosmogeny.n.01; cosmogony.n.01; cosmology.n.02 ,  the branch of astrophysics that studies the origin and evolution and structure of the universe ,Astronomy, 06098195
+none, metaphysics.n.01 ,  the philosophical study of being and knowing ,, 06162653
+LSA-mapping-label+sup+sub-and-synset+gloss, recording.n.02; transcription.n.05 ,"  the act of making a record (especially an audio record); ""she watched the recording from a sound-proof booth"" ",Free time, 00910203
+LSA-mapping-only-label-and-synset, microscopy.n.01 ,  research with the use of microscopes ,Optics, 00640889
+LSA-mapping-only-label-and-synset, driving.n.02 ,  the act of controlling and steering the movement of a vehicle or animal ,Vehicles, 00298497
+LSA-mapping-label+sup+sub-and-synset, latin.n.01 ,  any dialect of the language of ancient Rome ,Philology, 06962600
+LSA-mapping-label+sup+sub-and-synset+gloss, daoism.n.01; taoism.n.04 ,  philosophical system developed by Lao-tzu and Chuang-tzu advocating a simple honest life and noninterference with the course of natural events ,Philosophy, 05977340
+LSA-mapping-only-label-and-synset, brewing.n.01 ,  the production of malt beverages (as beer or ale) from malt and hops by grinding and boiling them and fermenting the result with yeast ,Industry, 00915140
+LSA-mapping-label+sup+sub-and-synset, language.n.01; linguistic_communication.n.01 ,"  a systematic means of communicating by the use of sounds or conventional symbols; ""he taught foreign languages""; ""the language introduced is standard throughout the text""; ""the speed with which a program can be executed depends on the language in which it is written"" ",Grammar, 06282651
+LSA-mapping-only-label-and-synset, boat.n.01 ,  a small vessel for travel on water ,Fishing, 02858304
+LSA-mapping-only-label-and-synset, tag.n.04 ,  a game in which one child chases the others; the one who is caught becomes the next chaser ,Publishing, 00487874
+LSA-mapping-only-label-and-synset, farsi.n.02; persian.n.02 ,  the language of Persia (Iran) in any of its ancient forms ,Military, 06974127
+LSA-mapping-only-label-and-synset, spiritualism.n.02 ,  the belief that the spirits of dead people can communicate with people who are still alive (especially via a medium) ,Earth, 05951969
+LSA-mapping-label+sup+sub-and-synset+gloss, anglican_church.n.01; anglican_communion.n.01; church_of_england.n.01 ,  the national church of England (and all other churches in other countries that share its beliefs); has its see in Canterbury and the sovereign as its temporal head ,Roman catholic, 08087981
+LSA-mapping-label+sup+sub-and-synset+gloss, authorship.n.01; composition.n.06; penning.n.01; writing.n.01 ,"  the act of creating written works; ""writing was a form of therapy for him""; ""it was a matter of disputed authorship"" ",Factotum, 00929718
+LSA-mapping-only-label-and-synset+gloss, sewing.n.02; stitchery.n.01 ,"  needlework on which you are working with needle and thread; ""she put her sewing back in the basket"" ",Fashion, 04179385
+LSA-mapping-label+sup+sub-and-synset+gloss, horseshoes.n.01; quoits.n.01 ,  a game in which iron rings (or open iron rings) are thrown at a stake in the ground in the hope of encircling it ,Play, 00467320
+LSA-mapping-label+sup+sub-and-synset, anglo-saxon.n.01 ,  a native or inhabitant of England prior to the Norman Conquest ,History, 09701977
+LSA-mapping-label+sup+sub-and-synset+gloss, islam.n.02; islamism.n.02; mohammedanism.n.01; muhammadanism.n.01; muslimism.n.02 ,"  the monotheistic religious system of Muslims founded in Arabia in the 7th century and based on the teachings of Muhammad as laid down in the Koran; ""Islam is a complete way of life; not a Sunday religion""; ""the term Muhammadanism is offensive to Muslims who believe that Allah; not Muhammad; founded their religion"" ",Religion, 06234825
+LSA-mapping-only-label-and-synset+gloss, aeroplane.n.01; airplane.n.01; plane.n.01 ,"  an aircraft that has a fixed wing and is powered by propellers or jets; ""the flight was delayed due to trouble with the airplane"" ",Aviation, 02691156
+LSA-mapping-only-label-and-synset+gloss, crime.n.01; criminal_offence.n.01; criminal_offense.n.01; law-breaking.n.01; offence.n.05; offense.n.03 ,"  (criminal law) an act punishable by law; usually considered an evil act; ""a long record of crimes"" ",Law, 00766234
+LSA-mapping-label+sup+sub-and-synset+gloss, carl_gustav_jung.n.01; carl_jung.n.01; jung.n.01 ,  Swiss psychologist (1875-1961) ,Psychology, 11094611
+LSA-mapping-only-label-and-synset+gloss, viniculture.n.01; viticulture.n.01 ,  the cultivation of grapes and grape vines; grape growing ,Plants, 01126709
+LSA-mapping-only-label-and-synset+gloss, holism.n.01; holistic_theory.n.01 ,"  the theory that the parts of any whole cannot exist and cannot be understood except in their relation to the whole; ""holism holds that the whole is greater than the sum of its parts""; ""holistic theory has been applied to ecology and language and mental states"" ",Psychological features, 06102865
+LSA-mapping-label+sup+sub-and-synset, neurology.n.01 ,  the branch of medical science that deals with the nervous system ,Psychiatry, 06078978
+LSA-mapping-only-label-and-synset, telecasting.n.01; television.n.01; tv.n.01; video.n.04 ,"  broadcasting visual images of stationary or moving objects; ""she is a star of screen and video""; ""Television is a medium because it is neither rare nor well done"" - Ernie Kovacs ",Radio tv, 06277280
+LSA-mapping-label+sup+sub-and-synset, homo.n.02; human.n.01; human_being.n.01; man.n.04 ,  any living or extinct member of the family Hominidae characterized by superior intelligence; articulate speech; and erect carriage ,Philosophy, 02472293
+LSA-mapping-only-label-and-synset, broadcast_medium.n.01; broadcasting.n.01 ,  a medium that disseminates via telecommunications ,Radio tv, 06264176
+LSA-mapping-only-label-and-synset, dressage.n.01 ,  maneuvers of a horse in response to body signals by the rider ,Racing, 00288000
+LSA-mapping-only-label-and-synset, japanese.n.02 ,  the language (usually considered to be Altaic) spoken by the Japanese ,Military, 06929279
+LSA-mapping-label+sup+sub-and-synset+gloss, zen.n.02; zen_buddhism.n.02 ,  a Buddhist doctrine that enlightenment can be attained through direct intuitive insight ,Philosophy, 06242048
+LSA-mapping-only-label-and-synset, botany.n.01; flora.n.01; vegetation.n.01 ,"  all the plant life in a particular region or period; ""Pleistocene vegetation""; ""the flora of southern California""; ""the botany of China"" ",Plants, 08436759
+LSA-mapping-only-label-and-synset+gloss, fairy_story.n.01; fairy_tale.n.01; fairytale.n.01 ,  a story about fairies; told to amuse children ,Play, 07222581
+LSA-mapping-only-label-and-synset, election.n.01 ,"  a vote to select the winner of a position or political office; ""the results of the election will be announced tonight"" ",Politics, 00181781
+LSA-mapping-only-label-and-synset, drama.n.03 ,  the literary genre of works intended for the theater ,Play, 06376154
+LSA-mapping-only-label-and-synset, broadcasting.n.02 ,  taking part in a radio or tv program ,Radio tv, 06276697
+LSA-mapping-only-label-and-synset, psychotherapy.n.02 ,  the treatment of mental or emotional problems by psychological means ,Psychoanalysis, 00700652
+LSA-mapping-only-label-and-synset, computer_programing.n.01; computer_programming.n.01; programing.n.02; programming.n.02 ,  creating a sequence of instructions to enable the computer to do something ,Telephony, 00928947
+LSA-mapping-only-label-and-synset+gloss, accountancy.n.01; accounting.n.03 ,  the occupation of maintaining and auditing records and preparing financial reports for a business ,Finance, 00618734
+LSA-mapping-only-label-and-synset, quadruped.n.01 ,  an animal especially a mammal having four limbs specialized for walking ,Biochemistry, 02156871
+none, billiards.n.01 ,  any of several games played on rectangular cloth-covered table (with cushioned edges) in which long tapering cue sticks are used to propel ivory (or composition) balls ,, 00499924
+LSA-mapping-label+sup+sub-and-synset, hydrostatics.n.01 ,  study of the mechanical properties of fluids that are not in motion ,Mathematics, 06113415
+LSA-mapping-only-label-and-synset, being.n.02; organism.n.01 ,  a living thing that has (or can develop) the ability to act or function independently ,Genetics, 00004475
+LSA-mapping-only-label-and-synset, trademark.n.02 ,  a formally registered symbol identifying the manufacturer or distributor of a product ,Electronics, 06851742
+LSA-mapping-only-label-and-synset, quarrying.n.01 ,  the extraction of building stone or slate from an open surface quarry ,Industry, 00922968
+LSA-mapping-only-label-and-synset+gloss, a_capella_singing.n.01; a_cappella_singing.n.01 ,  singing without instrumental accompaniment ,Music, 00546070
+LSA-mapping-only-label-and-synset+gloss, general_assembly.n.02; law-makers.n.01; legislative_assembly.n.01; legislative_body.n.01; legislature.n.01 ,  persons who make or amend or repeal laws ,Administration, 08163273
+LSA-mapping-label+sup+sub-and-synset, italian.n.02 ,  the Romance language spoken in Italy ,Art, 06964247
+LSA-mapping-only-label-and-synset, flora.n.02; plant.n.02; plant_life.n.01 ,  (botany) a living organism lacking the power of locomotion ,Plants, 00017222
+LSA-mapping-only-label-and-synset, river.n.01 ,"  a large natural stream of water (larger than a creek); ""the river was navigable for 50 miles"" ",Fishing, 09411430
+LSA-mapping-only-label-and-synset+gloss, gestation.n.02; maternity.n.01; pregnancy.n.01 ,  the state of being pregnant; the period from conception to birth when a woman carries a developing fetus in her uterus ,Sexuality, 14046202
+LSA-mapping-only-label-and-synset+gloss, radio.n.01; radiocommunication.n.01; wireless.n.01 ,  medium for communication ,Radio tv, 06277135
+LSA-mapping-label+sup+sub-and-synset, apocalypse.n.02; book_of_revelation.n.01; revelation.n.04; revelation_of_saint_john_the_divine.n.01 ,  the last book of the New Testament; contains visionary descriptions of heaven and of conflicts between good and evil and of the end of the world; attributed to Saint John the Apostle ,Religion, 06447897
+LSA-mapping-only-label-and-synset, sanskrit.n.01; sanskritic_language.n.01 ,  (Hinduism) an ancient language of India (the language of the Vedas and of Hinduism); an official language of India although it is now used only for religious purposes ,Linguistics, 06969129
+LSA-mapping-label+sup+sub-and-synset, performing_arts.n.01 ,  arts or skills that require public performance ,Art, 06157326
+LSA-mapping-label+sup+sub-and-synset, cookery.n.01; cooking.n.01; preparation.n.08 ,"  the act of preparing something (as food) by the application of heat; ""cooking can be a great art""; ""people are needed who have experience in cookery""; ""he left the preparation of meals to his wife"" ",Gastronomy, 00243918
+LSA-mapping-only-label-and-synset+gloss, protestant.n.02; protestant_church.n.01 ,  the Protestant churches and denominations collectively ,Roman catholic, 08087570
+LSA-mapping-only-label-and-synset, squash.n.03; squash_rackets.n.01; squash_racquets.n.01 ,  a game played in an enclosed court by two or four players who strike the ball with long-handled rackets ,Tennis, 00479887
+LSA-mapping-only-label-and-synset, toxicology.n.01 ,  the branch of pharmacology that deals with the nature and effects and treatments of poisons ,Chemistry, 06064462
+LSA-mapping-only-label-and-synset, solution.n.01 ,"  a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution; ""he used a solution of peroxide and water"" ",Geometry, 14589223
+LSA-mapping-only-label-and-synset+gloss, navigation.n.01; pilotage.n.01; piloting.n.01 ,  the guidance of ships or airplanes from place to place ,Nautical, 00815801
+LSA-mapping-only-label-and-synset+gloss, quantum_theory.n.01 ,  (physics) a physical theory that certain properties occur only in discrete amounts (quanta) ,Psychological features, 06107660
+LSA-mapping-label+sup+sub-and-synset+gloss, rhyme.n.01; rime.n.02 ,  correspondence in the sounds of two or more lines (especially final sounds) ,Factotum, 07096661
+LSA-mapping-only-label-and-synset, hebrew.n.01 ,  the ancient Canaanitic language of the Hebrews that has been revived as the official language of Israel ,Earth, 06987124
+LSA-mapping-only-label-and-synset, teuton.n.02 ,  a member of the ancient Germanic people who migrated from Jutland to southern Gaul and were annihilated by the Romans ,Diplomacy, 09689152
+LSA-mapping-only-label-and-synset, melanesia.n.01 ,  the islands in the southwestern part of Oceania ,Anthropology, 08836630
+LSA-mapping-label+sup+sub-and-synset, canada.n.01 ,"  a nation in northern North America; the French were the first Europeans to settle in mainland Canada; ""the border between the United States and Canada is the longest unguarded border in the world"" ",Post, 08820121
+LSA-mapping-label+sup+sub-and-synset+gloss, book_of_genesis.n.01; genesis.n.02 ,  the first book of the Old Testament: tells of Creation; Adam and Eve; the Fall of Man; Cain and Abel; Noah and the flood; God's covenant with Abraham; Abraham and Isaac; Jacob and Esau; Joseph and his brothers ,Religion, 06432376
+LSA-mapping-only-label-and-synset, abyssinia.n.01; ethiopia.n.01; federal_democratic_republic_of_ethiopia.n.01; yaltopya.n.01 ,  Ethiopia is a republic in northeastern Africa on the Red Sea; formerly called Abyssinia ,Military, 08778061
+LSA-mapping-label+sup+sub-and-synset+gloss, beneficiation.n.01; mineral_dressing.n.01; mineral_extraction.n.01; mineral_processing.n.01; ore_dressing.n.01; ore_processing.n.01 ,  crushing and separating ore into valuable substances or waste by any of a variety of techniques ,Environment, 13516312
+LSA-mapping-label+sup+sub-and-synset+gloss, the_indies.n.01; west_indies.n.01 ,  the string of islands between North America and South America; a popular resort area ,Free time, 08747054
+LSA-mapping-label+sup+sub-and-synset+gloss, computer_simulation.n.01; simulation.n.02 ,"  (computer science) the technique of representing the real world by a computer program; ""a simulation should imitate the internal processes and not merely the results of the thing being simulated"" ",Mathematics, 05666700
+LSA-mapping-label+sup+sub-and-synset+gloss, science.n.01; scientific_discipline.n.01 ,"  a particular branch of scientific knowledge; ""the science of genetics"" ",Chemistry, 05999797
+LSA-mapping-only-label-and-synset+gloss, audition.n.01; auditory_modality.n.01; auditory_sense.n.01; hearing.n.06; sense_of_hearing.n.01 ,"  the ability to hear; the auditory faculty; ""his hearing was impaired"" ",Psychological features, 05657718
+LSA-mapping-only-label-and-synset, episcopal_church.n.02; protestant_episcopal_church.n.01 ,  United States church that is in communication with the see of Canterbury ,Roman catholic, 08088472
+LSA-mapping-only-label-and-synset+gloss, mammal.n.01; mammalian.n.01 ,  any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small subclass of monotremes and nourished with milk ,Hunting, 01861778
+LSA-mapping-only-label-and-synset+gloss, afghan.n.03; afghani.n.02; pashto.n.01; pashtu.n.01; paxto.n.01 ,  an Iranian language spoken in Afghanistan and Pakistan; the official language of Afghanistan ,Military, 06975132
+LSA-mapping-only-label-and-synset+gloss, church.n.03; church_service.n.01 ,"  a service conducted in a house of worship; ""don't be late for church"" ",Roman catholic, 01032368
+LSA-mapping-label+sup+sub-and-synset+gloss, board_game.n.01 ,  a game played on a specially designed board ,Chess, 00502415
+LSA-mapping-only-label-and-synset, islam.n.01; muslimism.n.01 ,"  the civilization of Muslims collectively which is governed by the Muslim religion; ""Islam is predominant in northern Africa; the Middle East; Pakistan; and Indonesia"" ",Religion, 08095647
+LSA-mapping-label+sup+sub-and-synset+gloss, evolution.n.02; organic_evolution.n.01; phylogenesis.n.01; phylogeny.n.01 ,  (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms ,Genetics, 13477023
+LSA-mapping-only-label-and-synset+gloss, development.n.03; growing.n.01; growth.n.01; maturation.n.02; ontogenesis.n.01; ontogeny.n.01 ,"  (biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level; ""he proposed an indicator of osseous development in children"" ",Psychological features, 13489037
+LSA-mapping-label+sup+sub-and-synset+gloss, bible.n.01; book.n.09; christian_bible.n.01; good_book.n.01; holy_scripture.n.01; holy_writ.n.01; scripture.n.01; word.n.10; word_of_god.n.02 ,"  the sacred writings of the Christian religions; ""he went to carry the Word to the heathen"" ",Religion, 06431740
+LSA-mapping-only-label-and-synset, academe.n.01; academia.n.01 ,  the academic world ,Chemistry, 08274923
+LSA-mapping-only-label-and-synset+gloss, knit.n.03; knitting.n.01; knitwork.n.01 ,  needlework created by interlacing yarn in a series of connected loops using straight eyeless needles or by machine ,Fashion, 03624966
+LSA-mapping-only-label-and-synset, handwriting.n.02 ,"  the activity of writing by hand; ""handwriting can be slow and painful for one with arthritis"" ",Grammar, 00614730
+LSA-mapping-only-label-and-synset+gloss, ovid.n.01; publius_ovidius_naso.n.01 ,  Roman poet remembered for his elegiac verses on love (43 BC - AD 17) ,Mythology, 11218776
+LSA-mapping-only-label-and-synset, aristotle.n.01 ,  one of the greatest of the ancient Athenian philosophers; pupil of Plato; teacher of Alexander the Great (384-322 BC) ,Philosophy, 10822338
+LSA-mapping-only-label-and-synset+gloss, matrix_algebra.n.01 ,  the part of algebra that deals with the theory of matrices ,Geometry, 06013584
+LSA-mapping-only-label-and-synset, epidemiology.n.01 ,  the branch of medical science dealing with the transmission and control of disease ,Medicine, 06050024
+LSA-mapping-only-label-and-synset, parliament.n.01 ,  a legislative assembly in certain countries ,Administration, 08319198
+LSA-mapping-label+sup+sub-and-synset+gloss, checkers.n.01; draughts.n.01 ,  a checkerboard game for two players who each have 12 pieces; the object is to jump over and so capture the opponent's pieces ,Play, 00502952
+LSA-mapping-label+sup+sub-and-synset, computer.n.01; computing_device.n.01; computing_machine.n.01; data_processor.n.01; electronic_computer.n.01; information_processing_system.n.01 ,  a machine for performing calculations automatically ,Telephony, 03082979
+LSA-mapping-only-label-and-synset, immunology.n.01 ,  the branch of medical science that studies the body's immune system ,Biochemistry, 06051542
+LSA-mapping-label+sup+sub-and-synset, film.n.01; flick.n.03; motion-picture_show.n.01; motion_picture.n.01; movie.n.01; moving-picture_show.n.01; moving_picture.n.01; pic.n.01; picture.n.06; picture_show.n.01 ,"  a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement; ""they went to a movie every Saturday night""; ""the film was shot on location"" ",Art, 06613686
+none, narcotic.n.01 ,  a drug that produces numbness or stupor; often taken for pleasure or to reduce pain; extensive use can lead to addiction ,, 03808564
+LSA-mapping-only-label-and-synset, navigation.n.03; sailing.n.01; seafaring.n.01 ,  the work of a sailor ,Nautical, 00314469
+LSA-mapping-only-label-and-synset+gloss, second_world_war.n.01; world_war_2.n.01; world_war_ii.n.01 ,  a war between the Allies (Australia; Belgium; Bolivia; Brazil; Canada; China; Colombia; Costa Rica; Cuba; Czechoslovakia; Dominican Republic; El Salvador; Ethiopia; France; Greece; Guatemala; Haiti; Honduras; India; Iran; Iraq; Luxembourg; Mexico; Netherlands; New Zealand; Nicaragua; Norway; Panama; Philippines; Poland; South Africa; United Kingdom; United States; USSR; Yugoslavia) and the Axis (Albania; Bulgaria; Finland; Germany; Hungary; Italy; Japan; Rumania; Slovakia; Thailand) from 1939 to 1945 ,Military, 01312096
+LSA-mapping-only-label-and-synset+gloss, informatics.n.01; information_processing.n.01; information_science.n.01; ip.n.01 ,  the sciences concerned with gathering; manipulating; storing; retrieving; and classifying recorded information ,Psychological features, 06142118
+LSA-mapping-only-label-and-synset, marxism.n.01 ,  the economic and political theories of Karl Marx and Friedrich Engels that hold that human actions and institutions are economically determined and that class struggle is needed to create historical change and that capitalism will ultimately be superseded by communism ,History, 06215618
+LSA-mapping-only-label-and-synset, swahili.n.01 ,  the most widely spoken Bantu languages; the official language of Kenya and Tanzania and widely used as a lingua franca in east and central Africa ,Linguistics, 06995792
+LSA-mapping-only-label-and-synset+gloss, lawmaking.n.01; legislating.n.01; legislation.n.02 ,  the act of making or enacting laws ,Law, 01125693
+LSA-mapping-only-label-and-synset, sailing.n.02 ,  riding in a sailboat ,Skiing, 00313806
+LSA-mapping-only-label-and-synset+gloss, vent.n.03; volcano.n.01 ,  a fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt ,Earth, 09470550
+LSA-mapping-label+sup+sub-and-synset+gloss, hindooism.n.02; hinduism.n.02 ,  a body of religious and philosophical beliefs and cultural practices native to India and based on a caste system; it is characterized by a belief in reincarnation; by a belief in a supreme being of many forms and natures; by the view that opposing theories are aspects of one eternal truth; and by a desire for liberation from earthly evils ,Philosophy, 06236802
+LSA-mapping-only-label-and-synset, yiddish.n.01 ,  a dialect of High German including some Hebrew and other words; spoken in Europe as a vernacular by many Jews; written in the Hebrew script ,Music, 06951067
+LSA-mapping-only-label-and-synset+gloss, horseback_riding.n.02; riding.n.02 ,  travel by being carried on horseback ,Folklore, 00299217
+LSA-mapping-only-label-and-synset, metallurgy.n.01 ,  the science and technology of metals ,Chemistry, 06125698
+LSA-mapping-label+sup+sub-and-synset, transmission.n.02 ,  communication by means of transmitted signals ,Telecommunication, 06251781
+LSA-mapping-only-label-and-synset+gloss, ball_game.n.01; ballgame.n.02 ,  a field game played with a ball (especially baseball) ,Soccer, 00471437
+LSA-mapping-only-label-and-synset, ornithology.n.01 ,  the branch of zoology that studies birds ,Hunting, 06073494
+LSA-mapping-label+sup+sub-and-synset+gloss, princeton_wordnet.n.01; wordnet.n.02 ,  a machine-readable lexical database organized by meanings; developed at Princeton University ,Humanities, 06639204
+LSA-mapping-label+sup+sub-and-synset+gloss, act_of_terrorism.n.01; terrorism.n.01; terrorist_act.n.01 ,  the calculated use of violence (or the threat of violence) against civilians in order to attain goals that are political or religious or ideological in nature; this is done through intimidation or coercion or instilling fear ,Social science, 00759694
+LSA-mapping-only-label-and-synset+gloss, court_game.n.01 ,  an athletic game played on a court ,Soccer, 00479076
+LSA-mapping-label+sup+sub-and-synset+gloss, carpentry.n.01; woodwork.n.02; woodworking.n.01 ,  the craft of a carpenter: making things out of wood ,Art, 00607775
+LSA-mapping-only-label-and-synset, computer_graphics.n.01 ,  the pictorial representation and manipulation of data by a computer ,Telephony, 03084647
+LSA-mapping-only-label-and-synset, fungus.n.01 ,  an organism of the kingdom Fungi lacking chlorophyll and feeding on organic matter; ranging from unicellular or multicellular organisms to spore-bearing syncytia ,Plants, 12992868
+LSA-mapping-only-label-and-synset, insect.n.01 ,  small air-breathing arthropod ,Plants, 02159955
+LSA-mapping-label+sup+sub-and-synset, antiquity.n.01 ,  the historic period preceding the Middle Ages in Europe ,Plastic arts, 15253139
+LSA-mapping-only-label-and-synset, crystallography.n.01 ,  the branch of science that studies the formation and structure of crystals ,Chemistry, 06098876
+LSA-mapping-only-label-and-synset, buddhism.n.02 ,  the teaching of Buddha that life is permeated with suffering caused by desire; that suffering ceases when desire ceases; and that enlightenment obtained through right conduct and wisdom and meditation releases one from desire and suffering and rebirth ,Religion, 06240244
+LSA-mapping-label+sup+sub-and-synset, neuroscience.n.01 ,  the scientific study of the nervous system ,Biochemistry, 06081833
+LSA-mapping-only-label-and-synset, ruminant.n.01 ,  any of various cud-chewing hoofed mammals having a stomach divided into four (occasionally three) compartments ,Food, 02399000
+LSA-mapping-only-label-and-synset, counterpoint.n.01 ,  a musical form involving the simultaneous sound of two or more melodies ,Music, 07025419
+LSA-mapping-label+sup+sub-and-synset+gloss, amerindian.n.01; native_american.n.01 ,  any member of the peoples living in North or South America before the Europeans arrived ,Social science, 09644820
+LSA-mapping-only-label-and-synset+gloss, sailing_ship.n.01; sailing_vessel.n.01 ,  a vessel that is powered by the wind; often having several masts ,Nautical, 04128837
+LSA-mapping-label+sup+sub-and-synset+gloss, arabic.n.01; arabic_language.n.01 ,  the Semitic language of the Arabs; spoken in a variety of dialects ,Linguistics, 06988057
+LSA-mapping-only-label-and-synset, virus.n.01 ,  (virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein ,Genetics, 01328702
+LSA-mapping-only-label-and-synset, accounting.n.02 ,  a system that provides quantitative information about finances ,Finance, 05662532
+LSA-mapping-label+sup+sub-and-synset+gloss, new_testament.n.01 ,  the collection of books of the Gospels; Acts of the Apostles; the Pauline and other epistles; and Revelation; composed soon after Christ's death; the second half of the Christian Bible ,Religion, 06453849
+LSA-mapping-only-label-and-synset, invertebrate.n.01 ,  any animal lacking a backbone or notochord; the term is not used as a scientific classification ,Fishing, 01905661
+LSA-mapping-only-label-and-synset+gloss, printing.n.03; printing_process.n.01 ,  reproduction by applying ink to paper as for publication ,Publishing, 06677302
+LSA-mapping-label+sup+sub-and-synset, spanish.n.01 ,  the Romance language spoken in most of Spain and the countries colonized by Spain ,Diplomacy, 06966825
+LSA-mapping-label+sup+sub-and-synset+gloss, hoodooism.n.01; vodoun.n.01; voodoo.n.03; voodooism.n.01 ,  a religious cult practiced chiefly in Caribbean countries (especially Haiti); involves witchcraft and animistic deities ,Mythology, 06245816
+LSA-mapping-label+sup+sub-and-synset+gloss, bookkeeping.n.01; clerking.n.01 ,  the activity of recording business transactions ,Exchange, 00619230
+LSA-mapping-only-label-and-synset, rhetoric.n.04 ,  study of the technique and rules for using language effectively (especially in public speaking) ,Politics, 06170498
+LSA-mapping-label+sup+sub-and-synset, snooker.n.01 ,  a form of pool played with 15 red balls and six balls of other colors and a cue ball ,Sport, 00501304
+LSA-mapping-only-label-and-synset+gloss, fable.n.03; legend.n.01 ,  a story about mythical or supernatural beings or events ,Mythology, 06371413
+LSA-mapping-only-label-and-synset, metonymy.n.01 ,  substituting the name of an attribute or feature for the name of the thing itself (as in `they counted heads') ,Literature, 07107676
+LSA-mapping-only-label-and-synset+gloss, einstein's_theory_of_relativity.n.01; relativity.n.01; relativity_theory.n.01; theory_of_relativity.n.01 ,  (physics) the theory that space and time are relative concepts rather than absolute concepts ,Psychoanalysis, 06106502
+LSA-mapping-label+sup+sub-and-synset+gloss, eastern_church.n.01; eastern_orthodox.n.01; eastern_orthodox_church.n.01; orthodox_catholic_church.n.01; orthodox_church.n.01 ,  derived from the Byzantine Church and adhering to Byzantine rites ,Roman catholic, 08086356
+LSA-mapping-only-label-and-synset+gloss, japanese.n.01; nipponese.n.01 ,  a native or inhabitant of Japan ,Military, 09718217
+LSA-mapping-only-label-and-synset+gloss, space_travel.n.01; spacefaring.n.01; spaceflight.n.01 ,  a voyage outside the Earth's atmosphere ,Earth, 00313502
+LSA-mapping-label+sup+sub-and-synset+gloss, seafaring.n.02; water_travel.n.01 ,  travel by water ,Nautical, 00313647
+LSA-mapping-only-label-and-synset, handicraft.n.02 ,  a craft that requires skillful hands ,Tourism, 00714944
+LSA-mapping-only-label-and-synset+gloss, celestial_body.n.01; heavenly_body.n.01 ,  natural objects visible in the sky ,Earth, 09239740
+LSA-mapping-only-label-and-synset, ship.n.01 ,  a vessel that carries passengers or freight ,Nautical, 04194289
+LSA-mapping-label+sup+sub-and-synset+gloss, brasil.n.01; brazil.n.01; federative_republic_of_brazil.n.01 ,  the largest Latin American country and the largest Portuguese speaking country in the world; located in the central and northeastern part of South America; world's leading coffee exporter ,Social science, 08853741
+LSA-mapping-only-label-and-synset, aircraft.n.01 ,  a vehicle that can fly ,Aviation, 02686568
+LSA-mapping-only-label-and-synset, gnosticism.n.01 ,  a religious orientation advocating gnosis as the way to release a person's spiritual element; considered heresy by Christian churches ,Theology, 06222959
+LSA-mapping-label+sup+sub-and-synset, language.n.05; speech.n.08 ,"  the mental faculty or power of vocal communication; ""language sets homo sapiens apart from all other animals"" ",Grammar, 05650820
+LSA-mapping-label+sup+sub-and-synset+gloss, vessel.n.02; watercraft.n.02 ,  a craft designed for water transportation ,Transport, 04530566
+LSA-mapping-only-label-and-synset+gloss, islamic_republic_of_pakistan.n.01; pakistan.n.01; west_pakistan.n.01 ,  a Muslim republic that occupies the heartland of ancient south Asian civilization in the Indus River valley; formerly part of India; achieved independence from the United Kingdom in 1947 ,Military, 08975902
+LSA-mapping-only-label-and-synset, arthurian_legend.n.01 ,  the legend of King Arthur and his court at Camelot ,Folklore, 06371734
+LSA-mapping-only-label-and-synset+gloss, arabian_nights.n.01; arabian_nights'_entertainment.n.01; thousand_and_one_nights.n.01 ,  a collection of folktales in Arabic dating from the 10th century ,Folklore, 07222230
+LSA-mapping-only-label-and-synset, bird.n.01 ,  warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings ,Hunting, 01503061
+LSA-mapping-label+sup+sub-and-synset+gloss, news_article.n.01; news_story.n.01; newspaper_article.n.01 ,  an article reporting news ,Radio tv, 06269130
+LSA-mapping-only-label-and-synset, lacrosse.n.01 ,  a game invented by American Indians; now played by two teams who use long-handled rackets to catch and carry and throw the ball toward the opponents' goal ,School, 00477392
+LSA-mapping-label+sup+sub-and-synset+gloss, foreign_service.n.01 ,  the part of the State Department that supplies diplomats for the United States embassies and consulates around the world ,Diplomacy, 08138466
+LSA-mapping-only-label-and-synset, business.n.07; business_sector.n.01 ,"  business concerns collectively; ""Government and business could not agree"" ",Enterprise, 07966927
+LSA-mapping-label+sup+sub-and-synset+gloss, orthopaedics.n.01; orthopedics.n.01 ,  the branch of medical science concerned with disorders or deformities of the spine and joints ,Medicine, 06064106
+LSA-mapping-only-label-and-synset+gloss, folk_tale.n.01; folktale.n.01 ,  a tale circulated by word of mouth among the common folk ,Mythology, 07222050
+LSA-mapping-label+sup+sub-and-synset+gloss, micro-organism.n.01; microorganism.n.01 ,  any organism of microscopic size ,Biology, 01326291
+LSA-mapping-only-label-and-synset+gloss, war.n.01; warfare.n.01 ,"  the waging of armed conflict against an enemy; ""thousands of people were killed in the war"" ",Military, 00973077
+LSA-mapping-label+sup+sub-and-synset, virology.n.01 ,  the branch of medical science that studies viruses and viral diseases ,Entomology, 06065640
+LSA-mapping-label+sup+sub-and-synset, science_fiction.n.01 ,  literary fantasy involving the imagined impact of science on society ,Astronomy, 06368628
+LSA-mapping-label+sup+sub-and-synset+gloss, communication_theory.n.01; communications.n.01 ,"  the discipline that studies the principles of transmiting information and the methods by which it is delivered (as print or radio or television etc.); ""communications is his major field of study"" ",Social science, 05997361
+LSA-mapping-only-label-and-synset+gloss, haiti.n.01; republic_of_haiti.n.01 ,  a republic in the West Indies on the western part of the island of Hispaniola; achieved independence from France in 1804; the poorest and most illiterate nation in the western hemisphere ,Military, 08751494
+LSA-mapping-only-label-and-synset, masonry.n.03 ,  the craft of a mason ,Buildings, 00608896
+LSA-mapping-label+sup+sub-and-synset+gloss, german.n.02; german_language.n.01; high_german.n.01 ,  the standard German language; developed historically from West Germanic ,Linguistics, 06950528
+LSA-mapping-label+sup+sub-and-synset, corp.n.01; corporation.n.01 ,  a business firm whose articles of incorporation have been approved in some state ,Telephony, 08059412
+LSA-mapping-only-label-and-synset, printing.n.02 ,  the business of producing printed material for sale or distribution ,Publishing, 01103159
+LSA-mapping-label+sup+sub-and-synset, colloid.n.01 ,  a mixture with properties between those of a solution and fine suspension ,Oceanography, 14588219
+LSA-mapping-label+sup+sub-and-synset+gloss, phonemics.n.01; phonology.n.01 ,  the study of the sound system of a given language and the analysis and classification of its phonemes ,Grammar, 06177450
+LSA-mapping-label+sup+sub-and-synset, auction.n.02; auction_sale.n.01; vendue.n.01 ,  the public sale of something to the highest bidder ,Jewellery, 00092366
+LSA-mapping-only-label-and-synset, china_clay.n.01; china_stone.n.01; kaolin.n.01; kaoline.n.01; porcelain_clay.n.01; terra_alba.n.03 ,  a fine usually white clay formed by the weathering of aluminous minerals (as feldspar); used in ceramics and as an absorbent and as a filler (e.g.; in paper) ,Jewellery, 14670639
+LSA-mapping-only-label-and-synset, croquet.n.01 ,  a game in which players hit a wooden ball through a series of hoops; the winner is the first to traverse all the hoops and hit a peg ,Tennis, 00466880
+LSA-mapping-only-label-and-synset, computer_technology.n.01 ,  the activity of designing and constructing and programming computers ,Computer science, 00950705
